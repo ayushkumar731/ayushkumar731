@@ -21,9 +21,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar731&show_icons=true&locale=en&layout=compact" alt="ayushkumar731" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushkumar731&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ayushkumar731)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushkumar731&show_icons=true&count_private=true)    
 
 ![GitHub metrics](https://metrics.lecoq.io/ayushkumar731)  
 

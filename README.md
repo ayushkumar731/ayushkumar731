@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/ayushkumar731) 
 
 ### Hi there 👋 I am Ayush Kumar
-#### I am Full Stack Develper || MERN Developer
+#### Full Stack Develper || MERN Developer
 
 - 💬  Ask me about nodeJs and reactJs 
 - 📫  How to reach me: kumarayush731@gmail.com 

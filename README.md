@@ -18,6 +18,8 @@
  
 ---
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ayushkumar731&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar731&show_icons=true&locale=en&layout=compact" alt="ayushkumar731" /></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushkumar731&show_icons=true&count_private=true)    

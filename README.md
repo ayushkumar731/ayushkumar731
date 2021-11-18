@@ -25,3 +25,7 @@
 ![GitHub metrics](https://metrics.lecoq.io/ayushkumar731)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar731)   
+
+👇🏻 If you want to support me by buying me a [book or course](https://www.buymeacoffee.com/ayushkumar) and add to my knowledge! 
+
+<a href="https://www.buymeacoffee.com/ayushkumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book Or Course" width="120" ></a>

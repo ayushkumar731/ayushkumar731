@@ -17,9 +17,7 @@
 </p>
  
 ---
----
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ayushkumar" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a tea" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
----
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar731&show_icons=true&locale=en&layout=compact" alt="ayushkumar731" /></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushkumar731&show_icons=true&count_private=true)    

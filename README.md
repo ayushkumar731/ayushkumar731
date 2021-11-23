@@ -20,15 +20,15 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar731&show_icons=true&locale=en&layout=compact" alt="ayushkumar731" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushkumar731&show_icons=true&count_private=true)    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushkumar731&show_icons=true&count_private=true&theme=tokyonight)    
 
-![GitHub metrics](https://metrics.lecoq.io/ayushkumar731)  
+![GitHub metrics](https://metrics.lecoq.io/ayushkumar731?theme=tokyonight)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar731)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar731&theme=tokyonight)  
 
----
-<h3> 📈 Github Activity Graph </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=ayushkumar731" />
+<br/>
+
+![ayushkumar731's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushkumar731&theme=nord) 
 
 👇🏻 If you want to support me by buying me a [book or course](https://www.buymeacoffee.com/ayushkumar) and add to my knowledge! 
 

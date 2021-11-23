@@ -27,13 +27,9 @@
 <br/>
 
 <div align="center">
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar731&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ayushkumar731" />
- <img width="58%" src="https://activity-graph.herokuapp.com/graph?username=ayushkumar731&theme=nord" alt="ayushkumar731" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar731&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ayushkumar731" />
+ <img width="55%" src="https://activity-graph.herokuapp.com/graph?username=ayushkumar731&theme=nord" alt="ayushkumar731" />
 </div>
-
-<br />
-
-<img width="48%" src="https://metrics.lecoq.io/ayushkumar731?theme=tokyonight" alt="ayushkumar731" />
 
 ---
 

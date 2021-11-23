@@ -32,6 +32,8 @@
 
 ![ayushkumar731's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushkumar731&theme=nord) 
 
+---
+
 👇🏻 If you want to support me by buying me a [book or course](https://www.buymeacoffee.com/ayushkumar) and add to my knowledge! 
 
 <a href="https://www.buymeacoffee.com/ayushkumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book Or Course" width="120" ></a>

@@ -20,14 +20,14 @@
 
 ## ✨GitHub Stats: 
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar731&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ayushkumar731" />
- 
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar731&theme=tokyonight" alt="ayushkumar731" />
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushkumar731&show_icons=true&count_private=true&theme=tokyonight" alt="ayushkumar731" />
-   
 </div>
+<br />
 ![GitHub metrics](https://metrics.lecoq.io/ayushkumar731?theme=tokyonight)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar731&theme=tokyonight)  
+<br />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar731&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ayushkumar731" />
 
 <br/>
 

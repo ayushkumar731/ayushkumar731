@@ -24,7 +24,11 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/ayushkumar731)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar731)   
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar731)  
+
+---
+<h3> 📈 Github Activity Graph </h3>
+<img src="https://activity-graph.herokuapp.com/graph?username=ayushkumar731" />
 
 👇🏻 If you want to support me by buying me a [book or course](https://www.buymeacoffee.com/ayushkumar) and add to my knowledge! 
 

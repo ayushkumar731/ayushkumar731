@@ -3,7 +3,7 @@
 ## Hi, I'm Ayush Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Full Stack Develper || MERN Developer || Golang Developer
 
-- 💬  Ask me about **nodeJs**, **nextJs** and **reactJs**
+- 💬  Ask me about **Node.Js**, **Golang**, **Next.js**, **React.js**, **Docker**, **Jenkins**
 - 📫  How to reach me: kumarayush731@gmail.com  
 ---
 <h2 align="left">Languages and Tools:</h2>

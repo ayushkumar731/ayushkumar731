@@ -15,18 +15,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/ayush731" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="ayush731" height="40" width="40" /></a>
 </p>
- 
----
 
-## ✨GitHub Stats: 
-<div align="center">
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar731&theme=tokyonight" alt="ayushkumar731" />
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushkumar731&show_icons=true&count_private=true&theme=tokyonight" alt="ayushkumar731" />
-</div>
-
-<br/>
-
-<div align="center">
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar731&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ayushkumar731" />
- <img width="55%" src="https://activity-graph.herokuapp.com/graph?username=ayushkumar731&theme=nord" alt="ayushkumar731" />
-</div>

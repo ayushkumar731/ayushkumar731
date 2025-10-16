@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/ayushkumar731) 
 
 ## Hi, I'm Ayush Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Full Stack Develper || MERN Developer
+### Full Stack Develper || MERN Developer || Golang Developer
 
 - 💬  Ask me about **nodeJs**, **nextJs** and **reactJs**
 - 📫  How to reach me: kumarayush731@gmail.com  

@@ -30,9 +30,3 @@
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar731&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ayushkumar731" />
  <img width="55%" src="https://activity-graph.herokuapp.com/graph?username=ayushkumar731&theme=nord" alt="ayushkumar731" />
 </div>
-
----
-
-👇🏻 If you want to support me by buying me a [book or course](https://www.buymeacoffee.com/ayushkumar) and add to my knowledge! 
-
-<a href="https://www.buymeacoffee.com/ayushkumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book Or Course" width="120" ></a>

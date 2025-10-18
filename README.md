@@ -1,5 +1,5 @@
 ## Hi, I'm Ayush Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Full Stack Developer || MERN Developer || Golang Developer
+### Technical Lead || MERN Stack Developer || Golang Developer
 
 - 💬 Ask me about **Node.js**, **Golang**, **Next.js**, **React.js**, **Docker**, **Jenkins**
 - 📫 How to reach me: **kumarayush731@gmail.com**
